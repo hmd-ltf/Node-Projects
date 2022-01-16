@@ -1,0 +1,9 @@
+{
+  "name": "planet-project",
+  "version": "1.0.0",
+  "description": "A csv project to look at planets by kepler",
+  "main": "index.ts",
+  "author": "hmd",
+  "license": "GPL3",
+  "private": false
+}
